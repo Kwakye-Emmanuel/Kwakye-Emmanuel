@@ -107,12 +107,11 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 
 <div align="center">
   
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwakye-Emmanuel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Kwakye-Emmanuel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Emmanuel's GitHub Stats" />
 
-<!-- The streak image may sometimes be unavailable due to hosting. Keep or remove as you prefer. -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kwakye-Emmanuel&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kwakye-Emmanuel&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwakye-Emmanuel&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwakye-Emmanuel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
