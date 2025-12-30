@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Wireless+Security+Researcher;Physical+Layer+Security+Expert;ML+for+5G%2F6G+Networks;Cloud+Engineer+%7C+AI+Trainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Wireless%20Security%20Researcher;Physical%20Layer%20Security%20Expert)](https://github.com/Kwakye-Emmanuel)
 
 [![Email](https://img.shields.io/badge/Email-emmanuelkwakye593%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelkwakye593@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kwaning-kwakye-1706891a8)
@@ -13,9 +13,23 @@
 
 ---
 
+## Table of Contents
+- [About Me](#-about-me)
+- [Research Highlights](#-research-highlights)
+- [Technical Skills](#-technical-skills)
+- [GitHub Statistics](#-github-statistics)
+- [Recent Publications](#-recent-publications)
+- [Certifications](#-certifications)
+- [Featured Projects](#-featured-projects)
+- [Professional Experience](#-professional-experience)
+- [Current Goals](#-current-goals)
+- [Let's Connect](#-lets-connect)
+
+---
+
 ## 🔬 About Me
 
-I'm a **Graduate Research Assistant** at Hanbat National University, South Korea, specializing in **Physical Layer Security** and **Machine Learning for Wireless Communications**. My research focuses on making 5G/6G networks secure against eavesdropping through covert communication techniques.
+I'm a **Graduate Research Assistant** at Hanbat National University, South Korea, specializing in **Physical Layer Security** and **Machine Learning for Wireless Communications**. My research focuses on improving secure and covert communications under practical channel impairments and on applying machine learning to wireless security problems.
 
 **Currently:**
 - 🎓 Completing M.Eng. in Intelligent Media Engineering (GPA: 4.43/4.50)
@@ -95,6 +109,7 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
   
 ![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kwakye-Emmanuel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
+<!-- The streak image may sometimes be unavailable due to hosting. Keep or remove as you prefer. -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kwakye-Emmanuel&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwakye-Emmanuel&layout=compact&theme=radical&hide_border=true&langs_count=8)
@@ -134,7 +149,7 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 Machine learning for antenna selection and security performance in MIMO wireless systems. Partial channel information experiments.
 
 ### 📊 [Covert Communication Simulator](Coming Soon)
-MATLAB/Python simulation framework for analyzing covert communication performance under practical imperfections.
+MATLAB/Python simulation framework for analyzing covert communication performance under practical imperfections. (If you want, I can create a repo skeleton and issue for contributors.)
 
 ### ☁️ [CloudStack Infrastructure Manager](Private)
 Automated deployment and management tools for CloudStack IaaS environments.
@@ -185,7 +200,7 @@ I'm always interested in collaborating on:
 
 ### 💭 *"Building secure, intelligent wireless communication systems for next-generation networks"*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Wave](./assets/wave.svg)
 
 **Thanks for visiting! 😊**
 
