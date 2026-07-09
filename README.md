@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-emmanuelkwakye593%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelkwakye593@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kwaning-kwakye-1706891a8)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
 ![Profile Views](https://komarev.com/ghpv/?username=Kwakye-Emmanuel&color=brightgreen&style=for-the-badge)
 
 </div>
@@ -69,13 +69,13 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -83,17 +83,17 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudStack](https://img.shields.io/badge/CloudStack-1BA8E8?style=for-the-badge&logo=apache-cloudstack&logoColor=white)
+![CloudStack](https://img.shields.io/badge/CloudStack-1BA8E8?style=for-the-badge&logo=apachecloudstack&logoColor=white)
 
 ### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 Data Science Stack
@@ -109,7 +109,7 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
   
 <img src="https://github-readme-stats.vercel.app/api?username=Kwakye-Emmanuel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Emmanuel's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kwakye-Emmanuel&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Kwakye-Emmanuel&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwakye-Emmanuel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
@@ -125,7 +125,7 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 
 📄 Yongjae Lee, **Emmanuel Kwaning Kwakye**, Taehoon Kim, Inkyu Bang. *"Secure Transmission with Artificial Noise and Machine Learning in Low Earth Orbit Satellite Networks"*. **ICTC 2024**
 
-[![Google Scholar](https://img.shields.io/badge/📚_View_All_Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/📚_View_All_Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
 
 ---
 
@@ -133,7 +133,7 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_IT_Automation-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Ethical_Hacking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Huawei](https://img.shields.io/badge/HCIA--Datacom-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
@@ -147,10 +147,10 @@ Improved covert throughput by **12%** through CCDF-based jammer allocation under
 ### 🛡️ [ml-wireless-secrecy](https://github.com/Kwakye-Emmanuel/ml-wireless-secrecy)
 Machine learning for antenna selection and security performance in MIMO wireless systems. Partial channel information experiments.
 
-### 📊 [Covert Communication Simulator](Coming Soon)
-MATLAB/Python simulation framework for analyzing covert communication performance under practical imperfections. (If you want, I can create a repo skeleton and issue for contributors.)
+### 📊 Covert Communication Simulator *(coming soon)*
+MATLAB/Python simulation framework for analyzing covert communication performance under practical imperfections.
 
-### ☁️ [CloudStack Infrastructure Manager](Private)
+### ☁️ CloudStack Infrastructure Manager *(private repo)*
 Automated deployment and management tools for CloudStack IaaS environments.
 
 ---
@@ -189,7 +189,7 @@ I'm always interested in collaborating on:
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelkwakye593@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kwaning-kwakye-1706891a8)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
 
 </div>
 
@@ -199,7 +199,7 @@ I'm always interested in collaborating on:
 
 ### 💭 *"Building secure, intelligent wireless communication systems for next-generation networks"*
 
-![Wave](./assets/wave.svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 **Thanks for visiting! 😊**
 
