@@ -9,7 +9,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6342--6509-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6342-6509)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/emmanuel-kwaning-kwakye)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/emmanuel-kwaning-kwakye)
 [![CV](https://img.shields.io/badge/📄_Curriculum_Vitae-2E9EF7?style=for-the-badge)](./emmanuel_cv.pdf)
 ![Profile Views](https://komarev.com/ghpv/?username=Kwakye-Emmanuel&color=brightgreen&style=for-the-badge)
 
@@ -34,13 +34,13 @@
 
 ## 🔬 About Me
 
-I'm a **Graduate Research Assistant** at Hanbat National University, South Korea, specializing in **Physical Layer Security** and **Machine Learning for Wireless Communications**. My research focuses on improving secure and covert communications under practical channel impairments and on applying machine learning to wireless security problems.
+I'm a wireless-security researcher who recently completed an **M.Eng.** at Hanbat National University, South Korea, specializing in **Physical Layer Security** and **Machine Learning for Wireless Communications**. My research focuses on improving secure and covert communications under practical channel impairments and on applying machine learning to wireless security problems.
 
-**Currently:**
-- 🎓 Completing my M.Eng. in Intelligent Media Engineering (GPA: 4.44/4.50), graduating Feb. 2026
-- 🔭 Writing my thesis on **ISAC-assisted covert communications** under channel estimation and sensing errors
+**At a glance:**
+- 🎓 Completed my M.Eng. in Intelligent Media Engineering at Hanbat National University (Feb. 2026)
+- 🔭 Thesis on **ISAC-assisted covert communications** under channel estimation and sensing errors
 - 📝 First-author **journal article accepted** (JKICS, to appear Sep. 2026), plus 3 peer-reviewed conference papers
-- 🤝 Preparing an IEEE **GLOBECOM** manuscript on sensing-assisted deep learning for secure scheduling (with H. Vincent Poor)
+- 🤝 Submitted an IEEE **GLOBECOM** manuscript on sensing-assisted deep learning for secure scheduling (with H. Vincent Poor)
 - 🌱 Seeking **PhD** opportunities in Computer Engineering & Intelligent Systems
 
 ---
@@ -48,11 +48,11 @@ I'm a **Graduate Research Assistant** at Hanbat National University, South Korea
 ## 🎓 Education
 
 **Hanbat National University** — Daejeon, South Korea *(Mar. 2024 – Feb. 2026)*
-M.Eng. in Intelligent Media Engineering — **GPA: 4.44/4.50**
+M.Eng. in Intelligent Media Engineering
 Thesis: *Performance Analysis of ISAC-Assisted Covert Communications with Channel Estimation and Sensing Errors*
 
 **Kwame Nkrumah University of Science and Technology (KNUST)** — Kumasi, Ghana *(Sep. 2017 – Nov. 2021)*
-B.Sc. in Telecommunications Engineering — **First Class Honours, GPA: 3.77/4.00**
+B.Sc. in Telecommunications Engineering — **First Class Honours**
 Thesis: *Artificial neural network model for path loss prediction (MATLAB)*
 
 ---
@@ -84,7 +84,7 @@ Analyzed **two-stage covert ISAC systems** under sensing imperfections — journ
 <td width="50%">
 
 ### 🤖 Sensing-Aided Secure Scheduling
-Deep-learning framework for **multiuser ISAC** that uses sensing-estimated eavesdropper state for user selection and artificial-noise design (GLOBECOM, in prep)
+Deep-learning framework for **multiuser ISAC** that uses sensing-estimated eavesdropper state for user selection and artificial-noise design (submitted to GLOBECOM)
 
 </td>
 </tr>
@@ -104,8 +104,8 @@ Deep-learning framework for **multiuser ISAC** that uses sensing-estimated eaves
 - **Emmanuel Kwaning Kwakye**, Taehoon Kim, Inkyu Bang. *"Channel-Aware Power Allocation for Enhanced Covert Communication with Friendly Jammer."* **KICS Summer Conference 2025**, Jeju, South Korea.
 - Yongjae Lee, **Emmanuel Kwaning Kwakye**, Taehoon Kim, Inkyu Bang. *"Secure Transmission with Artificial Noise and Machine Learning in Low Earth Orbit Satellite Networks."* **ICTC 2024.**
 
-### 📝 In Preparation
-- **Emmanuel Kwaning Kwakye**, Jihwan Moon, Taehoon Kim, Inkyu Bang, H. Vincent Poor. *"Sensing-Assisted Deep Learning for Secure Multiuser Scheduling in ISAC Systems."* Target: **IEEE GLOBECOM.**
+### 📝 Under Review
+- **Emmanuel Kwaning Kwakye**, Jihwan Moon, Taehoon Kim, Inkyu Bang, H. Vincent Poor. *"Sensing-Assisted Deep Learning for Secure Multiuser Scheduling in ISAC Systems."* Submitted to **IEEE GLOBECOM.**
 
 [![Google Scholar](https://img.shields.io/badge/📚_View_All_Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=kYy66_MAAAAJ)
 
@@ -171,7 +171,7 @@ Deep-learning framework for **multiuser ISAC** that uses sensing-estimated eaves
 ![Cisco](https://img.shields.io/badge/Ethical_Hacking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Huawei](https://img.shields.io/badge/HCIA--Datacom-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 
-*Also: Python for Data Science & AI • CI/CD Foundations • MERN Full-Stack Development — see [Credly](https://credly.com/emmanuel-kwaning-kwakye)*
+*Also: Python for Data Science & AI • CI/CD Foundations • MERN Full-Stack Development — see [Credly](https://www.credly.com/users/emmanuel-kwaning-kwakye)*
 
 </div>
 
@@ -181,9 +181,6 @@ Deep-learning framework for **multiuser ISAC** that uses sensing-estimated eaves
 
 ### 🛡️ [ml-wireless-secrecy](https://github.com/Kwakye-Emmanuel/ml-wireless-secrecy)
 Machine learning for antenna selection and security performance in MIMO wireless systems. Partial channel information experiments.
-
-### 📊 Covert Communication Simulator *(coming soon)*
-MATLAB/Python simulation framework for analyzing covert communication performance under practical imperfections.
 
 ### ☁️ CloudStack Infrastructure Manager *(private repo)*
 Automated deployment and management tools for CloudStack IaaS environments.
@@ -209,8 +206,7 @@ Automated deployment and management tools for CloudStack IaaS environments.
 
 ## 🎯 Current Goals
 
-- 🎓 Complete my Master's thesis on ISAC-assisted covert communications
-- 📝 Submit the GLOBECOM manuscript and additional journal publications
+- 📝 Publish additional journal articles and conference papers from my thesis work
 - 🔍 Secure a PhD position in Computer Engineering / Intelligent Systems
 - 🤝 Collaborate on open-source projects in wireless security and ML
 - 🌟 Contribute to the physical layer security research community
